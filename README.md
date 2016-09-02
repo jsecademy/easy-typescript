@@ -1,12 +1,12 @@
 ### Easy TypeScript | Starter project for writing TypeScript
 
-This project is used to quickly get stared with TypeScript. The intention of this project is to learn to use TypeScript with out getting bogged down in the details of installing and creating a build script. Below is a list of the outcomes of this project.
+This project is used to quickly get started with TypeScript. The intention of this project is to learn to use TypeScript with out getting bogged down in the details of installing and creating a build script. Below is a list of the outcomes of this project.
 
 1. Automates the task of configuring TypeScript
-2. Cleanly installs and setups TypeScript with polluting the global system scope
+2. Cleanly installs and setups TypeScript with out polluting the global system scope
 3. Creates basic project to write ES6 or TypeScript code
 4. Cleanly builds ES6 or TypeScript code into a build directory
-5. Store and Save Typings for VSCode
+5. Stores and Save Typings for VSCode
 
 **Setup**
 ---
