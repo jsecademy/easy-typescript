@@ -6,7 +6,7 @@ This project is used to quickly get started with TypeScript. The intention of th
 2. Cleanly installs and setups TypeScript with out polluting the global system scope
 3. Creates basic project to write ES6 or TypeScript code
 4. Cleanly builds ES6 or TypeScript code into a build directory
-5. Stores and Save Typings for VSCode
+5. Stores and Saves Typings for VSCode
 
 **Setup**
 ---
